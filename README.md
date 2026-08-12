@@ -2,7 +2,7 @@
 
 A 6DOF robot arm controlled via computer vision (OpenCV). The system detects a target object and the working area using ArUco markers, computes its coordinates, and moves the robot arm to pick it up and place it on the mirrored side of the working area.
 
-> **Status: work not fully working.** Camera-based object detection and coordinate tracking work correctly, but the robot arm's physical movement (inverse kinematics execution / motor control) does not work reliably. I no longer have access to the physical robot, so I'm unable to continue debugging or fixing the movement issues. Uploading this project as-is for reference.
+> **Status: not fully working.** Camera-based object detection and coordinate tracking work correctly, but the robot arm's physical movement (inverse kinematics execution / motor control) does not work reliably. I no longer have access to the physical robot, so I'm unable to continue debugging or fixing the movement issues. Uploading this project as-is for reference.
 
 ## Project Goal
 
